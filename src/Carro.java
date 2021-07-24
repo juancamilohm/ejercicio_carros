@@ -3,7 +3,7 @@
  * Clase que permite instanciar un carro
  * @author Oscar Buriticá
  * @author Juan C Henao M
- * @version 4.0
+ * @version 5.0
  */
 public class Carro {
     String placa;
@@ -28,14 +28,23 @@ public class Carro {
         this.modelo = modelo;
     }
 
+    /**
+     * Metodo para obtener la placa del carro
+     */
     public String getPlaca() {
         return placa;
     }
 
+    /**
+     * Metodo para obtener la cantidad de galones del carro
+     */
     public double getGalones() {
         return galones;
     }
 
+    /**
+     * Metodo para obtener el modelo del carro
+     */
     public int getModelo() {
         return modelo;
     }
