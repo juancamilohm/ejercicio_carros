@@ -25,11 +25,11 @@ public class DatosCarros {
     }
 
     /**
-     * 
-     * @return
+     * Metodo que permite consultar la lista de carros
+     * @return lista de carros
      */
     public ArrayList<Carro> consultarCarros(){
 
-        return null;
+        return carros;
     }
 }
