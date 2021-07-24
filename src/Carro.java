@@ -3,7 +3,7 @@
  * Clase que permite instanciar un carro
  * @author Oscar Buriticá
  * @author Juan C Henao M
- * @version 2.0
+ * @version 4.0
  */
 public class Carro {
     String placa;

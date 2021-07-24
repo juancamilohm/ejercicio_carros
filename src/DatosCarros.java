@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Clase que permite instanciar los datos de un carro.
  * @author Oscar Buriticá
  * @author Juan C Henao M
- * @version 2.0
+ * @version 4.0
  */
 public class DatosCarros {
     
